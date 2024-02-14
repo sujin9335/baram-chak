@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="baram:jar">
+    <output-path>$USER_HOME$/OneDrive/바탕 화면</output-path>
+    <root id="archive" name="baram.jar">
+      <element id="module-output" name="baram" />
+    </root>
+  </artifact>
+</component>
